@@ -20,7 +20,7 @@ Building scalable web applications, SaaS platforms and high-performance backend 
 
 # 👨‍💻 About Me
 
-I'm a Senior Laravel Developer with 5+ years of experience designing and building scalable backend applications.
+I'm a Senior Laravel Developer with 6+ years of experience designing and building scalable backend applications.
 
 I enjoy solving complex backend problems, designing APIs, optimizing databases and building enterprise-grade Laravel applications.
 
