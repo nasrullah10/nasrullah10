@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Muhammad%20Nasrullah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Nasrullah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <h1>Hi 👋 I'm Nasrullah</h1>
 
