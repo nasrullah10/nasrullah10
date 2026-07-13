@@ -1,142 +1,150 @@
 <div align="center">
 
-# Hi 👋, I'm Nasrullah
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Muhammad%20Nasrullah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-### Senior PHP Laravel Developer | Backend Engineer | API Specialist
+<h1>Hi 👋 I'm Nasrullah</h1>
 
-Building scalable web applications, SaaS platforms and high-performance backend systems.
+<h3>Senior PHP Laravel Developer • Backend Engineer • API Specialist</h3>
+
+<p>
+Building scalable SaaS platforms, enterprise applications, REST APIs and high-performance backend systems.
+</p>
 
 <p>
 
-<a href="https://github.com/nasrullah10">
-<img src="https://komarev.com/ghpvc/?username=nasrullah10&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=nasrullah10&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/nasrullah10?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/nasrullah10?style=for-the-badge"/>
+
+</p>
+
+<p>
+
+<a href="https://www.linkedin.com/in/nasrullah-chana/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:nasrullahkhan1011@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Senior+PHP+Laravel+Developer;Backend+Engineer;REST+API+Specialist;Redis+%7C+Queues+%7C+Docker;Building+Scalable+Applications"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-I'm a Senior Laravel Developer with 6+ years of experience designing and building scalable backend applications.
+I'm a **Senior PHP Laravel Developer** with **6+ years** of experience building scalable web applications, enterprise solutions and SaaS platforms.
 
-I enjoy solving complex backend problems, designing APIs, optimizing databases and building enterprise-grade Laravel applications.
+I specialize in designing clean backend architectures, developing REST APIs, integrating third-party services and optimizing high-traffic Laravel applications.
 
-Currently focused on
+### 💡 I enjoy working on
 
-- Laravel 12
+- Enterprise Laravel Applications
+- SaaS Platforms
 - REST APIs
-- SaaS Development
-- AI Integrations
+- Payment Gateway Integrations
+- Redis & Queue Systems
+- Recommendation Systems
+- Analytics Dashboards
 - System Design
 - Performance Optimization
-- Redis
-- Queue Systems
-- Docker
 
 ---
 
-# 🚀 Tech Stack
+# ⚙️ Tech Stack
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs"/>
+
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,redis" />
+
+<img src="https://skillicons.dev/icons?i=mysql,redis"/>
+
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,html,css,tailwind" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind"/>
+
 </p>
 
 ### DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,docker,linux,github,nginx" />
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx"/>
+
 </p>
-
-### Tools
-
-- REST APIs
-- Payment Gateway Integration
-- Queue Systems
-- Recombee
-- Git
-- Composer
-- Linux Servers
 
 ---
 
-# 💼 What I Build
+# 💼 Core Expertise
 
-✅ Enterprise Laravel Applications
+✅ Laravel Development
+
+✅ REST API Development
 
 ✅ SaaS Platforms
 
-✅ REST APIs
+✅ Enterprise Applications
 
-✅ Admin Panels
-
-✅ Payment Gateway Integrations
-
-✅ Authentication Systems
-
-✅ Subscription Systems
-
-✅ Recommendation Engines
-
-✅ Analytics Dashboards
-
-✅ Queue Based Systems
+✅ Payment Integrations
 
 ✅ Redis Caching
 
-✅ High Performance Backend Systems
+✅ Queue Workers
+
+✅ Authentication & Authorization
+
+✅ Recommendation Systems
+
+✅ Analytics Dashboards
+
+✅ Database Optimization
+
+✅ Linux Server Deployment
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nasrullah10&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nasrullah10&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasrullah10&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasrullah10&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=nasrullah10&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=nasrullah10&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nasrullah10&theme=algolia&no-frame=true&margin-w=10"/>
-
-</p>
-
----
-
-# 📊 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -146,51 +154,45 @@ Currently focused on
 
 ---
 
-# ⭐ Core Skills
+# 🏆 GitHub Trophy
 
-- PHP
-- Laravel
-- Livewire
-- REST APIs
-- MySQL
-- Redis
-- Docker
-- Queue Workers
-- Payment Integrations
-- Linux
-- Git
-- Performance Optimization
-- System Architecture
-- API Integrations
-- SaaS Development
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nasrullah10&theme=algolia&no-frame=true&column=4"/>
+
+</p>
 
 ---
 
 # 🌱 Currently Learning
 
-- AI Powered Applications
+- AI Integrations
 - Kubernetes
 - AWS
-- Microservices
 - Event Driven Architecture
+- Microservices
 
 ---
 
 # 📫 Connect With Me
 
-💼 LinkedIn:
+💼 LinkedIn  
 https://www.linkedin.com/in/nasrullah-chana/
 
-📧 Email:
+📧 Email  
 nasrullahkhan1011@gmail.com
 
-🌍 Portfolio:
-https://www.linkedin.com/in/nasrullah-chana/
+🌐 GitHub  
+https://github.com/nasrullah10
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile ❤️
+## ⭐ Open to Remote Opportunities & Freelance Projects
+
+*"Clean Code • Scalable Architecture • Reliable Solutions"*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
