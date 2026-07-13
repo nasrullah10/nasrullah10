@@ -179,13 +179,13 @@ Currently focused on
 # 📫 Connect With Me
 
 💼 LinkedIn:
-(Add your LinkedIn URL)
+https://www.linkedin.com/in/nasrullah-chana/
 
 📧 Email:
-(Add your Email)
+nasrullahkhan1011@gmail.com
 
 🌍 Portfolio:
-(Add your Portfolio URL)
+https://www.linkedin.com/in/nasrullah-chana/
 
 ---
 
